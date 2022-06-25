@@ -1,6 +1,6 @@
 This is the ReadMe of the Project.
 
-The Idea is to merge different functions of existing Food Planner / Manager Apps into one smart App.
+The Idea is to merge different functions of existing Food Planner / Manager Apps into one smart App. \
 Goals:
   * Weekly Foodplan in the style of calendar
   * Auto genarate Weekly Shopping List
